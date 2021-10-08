@@ -159,6 +159,7 @@ a:visited{
     border:none;
     font-family: inherit;
     cursor: pointer;
+    border-radius:30%;
 }
 
 .btn:hover {
